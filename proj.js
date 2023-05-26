@@ -9,5 +9,5 @@ function onPrint(){
 }
 
 const colorWhite = '#fbf999';
-console.log(name);
 
+console.log('Hello Mir');
